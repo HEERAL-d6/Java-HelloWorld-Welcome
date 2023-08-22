@@ -1,5 +1,5 @@
 name: CI/CD using github
-on: [push]
+on: push
 jobs:
   Job-Message-Actions:
     runs-on: ubuntu-latest
